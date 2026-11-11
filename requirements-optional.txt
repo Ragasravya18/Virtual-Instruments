@@ -1,0 +1,2 @@
+# Only for the realistic SoundFont engine (also needs the FluidSynth library installed)
+pyfluidsynth>=1.3
